@@ -1,0 +1,48 @@
+
+
+.container {
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+
+  .add-button {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+  }
+
+  .depFilter{
+    margin-left: 20px;
+  }
+
+  .bannerimg{
+    width: 100%;
+  }
+  
+  .add-button {
+    margin: 20px;
+  }
+  
+  .add-button mat-icon {
+    margin-right: 8px;
+  }
+
+  .mat-toolbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .spacer {
+    flex: 1 1 auto;
+  }
+  
+  .add-button {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+  }
+  
